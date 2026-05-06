@@ -4,3 +4,5 @@ venv
 logs
 .env
 *.db
+test.db
+.db
