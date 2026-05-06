@@ -20,7 +20,7 @@ A simple authentication API built with FastAPI.
 
 ### 1. Clone repo
 ```bash
-git clone <repo-url>
+git clone https://github.com/fermac1/fastapi-auth.git
 cd fastapi-auth
 
 ```
