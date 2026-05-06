@@ -5,4 +5,4 @@ logs
 .env
 *.db
 test.db
-.db
+app.db
